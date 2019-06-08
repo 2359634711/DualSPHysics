@@ -33,7 +33,6 @@ Please download source files and documentation from <a href="http://dual.sphysic
 \date 21-05-2018
 \copyright GNU Lesser General Public License <a href="http://www.gnu.org/licenses/">GNU licenses.</a>
 */
-
 /// \file main.cpp \brief Main file of the project that executes the code on CPU or GPU.
 
 #include <string>
@@ -161,5 +160,6 @@ int main(int argc, char** argv){
   }
   return(errcode);
 }
+
 
 
